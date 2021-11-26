@@ -1,0 +1,20 @@
+html {
+    color: #fff;
+    background-color: #222;
+}
+
+body {
+
+}
+
+.dial {
+    display: inline-block;
+    width: 16%;
+    margin: 5%;
+    border: solid 1px white;
+}
+
+.dial img {
+    width: 100%;
+    background-color: #00F;
+}
