@@ -12,12 +12,12 @@ $(document).ready(function(){
         {
             "name": "Twitch",
             "img": "http://blog.logicalincrements.com/wp-content/uploads/2016/01/twitchlogo.jpg",
-            "link": "www.twitch.tv"
+            "link": "https://www.twitch.tv"
         },
         {
             "name": "Discord",
             "img": "https://clipartcraft.com/images/discord-logo-transparent-circle-4.png",
-            "link": "www.discord.com"
+            "link": "https://www.discord.com"
         }
     ];
 
