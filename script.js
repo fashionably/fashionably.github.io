@@ -27,7 +27,7 @@ $(document).ready(function(){
         let dialText = "";
         let dial = document.createElement('div');
         dial.classList = "dial";  
-        dialText+= "<a href='"+ l +"' target="_blank"><img src='"+ i +"'></a>";
+        dialText+= "<a href='"+ l +"' target='_blank'><img src='"+ i +"'></a>";
         dial.innerHTML = dialText;
 
         screen.append(dial);
